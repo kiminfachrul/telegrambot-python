@@ -1,6 +1,6 @@
 import telebot
 import threading
-from ss_auto import open_chrome_and_screenshot
+from ss_jadwal import open_chrome_and_screenshot
 
 # Masukkan TOKEN bot Telegram Anda
 API_TOKEN = '74'
